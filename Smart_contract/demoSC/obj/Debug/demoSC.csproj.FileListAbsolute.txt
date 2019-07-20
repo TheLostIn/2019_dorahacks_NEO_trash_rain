@@ -1,0 +1,11 @@
+F:\project_2019\NEO\2019-beijing-workshop\dapp_demo\smart-contract\demoSC\demoSC\bin\Debug\demoSC.dll
+F:\project_2019\NEO\2019-beijing-workshop\dapp_demo\smart-contract\demoSC\demoSC\bin\Debug\demoSC.pdb
+F:\project_2019\NEO\2019-beijing-workshop\dapp_demo\smart-contract\demoSC\demoSC\bin\Debug\Neo.SmartContract.Framework.dll
+F:\project_2019\NEO\2019-beijing-workshop\dapp_demo\smart-contract\demoSC\demoSC\obj\Debug\demoSC.dll
+F:\project_2019\NEO\2019-beijing-workshop\dapp_demo\smart-contract\demoSC\demoSC\obj\Debug\demoSC.pdb
+F:\project_2019\NEO\2019-beijing-workshop\dapp_demo\SC_trash\demoSC\demoSC\bin\Debug\demoSC.dll
+F:\project_2019\NEO\2019-beijing-workshop\dapp_demo\SC_trash\demoSC\demoSC\bin\Debug\demoSC.pdb
+F:\project_2019\NEO\2019-beijing-workshop\dapp_demo\SC_trash\demoSC\demoSC\bin\Debug\Neo.SmartContract.Framework.dll
+F:\project_2019\NEO\2019-beijing-workshop\dapp_demo\SC_trash\demoSC\demoSC\obj\Debug\demoSC.dll
+F:\project_2019\NEO\2019-beijing-workshop\dapp_demo\SC_trash\demoSC\demoSC\obj\Debug\demoSC.pdb
+F:\project_2019\NEO\2019-beijing-workshop\dapp_demo\SC_trash\demoSC\demoSC\obj\Debug\demoSC.csprojResolveAssemblyReference.cache
